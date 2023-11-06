@@ -1,6 +1,6 @@
 # Google Terminal Search
 
-This repository contains a script that enables you to perform Google searches directly from the terminal.
+This repository contains a script that enables you to perform Google searches directly from the terminal. 
 
 ## Installation
 
